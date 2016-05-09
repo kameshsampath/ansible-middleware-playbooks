@@ -14,4 +14,4 @@
 
   roles:
   - common
-  - jboss_eap
+  - kameshsampath.jboss_eap
